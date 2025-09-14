@@ -34,3 +34,7 @@
 
 #### 🚀 CI/CD
 <img src="https://img.shields.io/badge/ArgoCD-F5503C?style=for-the-badge&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/AWS-f58536?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=namo_o)](https://solved.ac/namo_o/)
